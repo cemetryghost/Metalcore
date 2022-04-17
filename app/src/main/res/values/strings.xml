@@ -1,45 +1,59 @@
 <resources>
     <string name="app_name">Metalcore</string>
     <string name="Wildways_Breathless">
-        <p>I can\'t read my mind, no idea who am I \n
+        <p>My calendar says I don\'t have enough time \n
+        I can\'t read my mind, no idea who am I \n
         I\'ve seen the people kill themselves \n
         I\'ve seen them lost inside their heads \n
         This monster can grab anyone \n
         Only the dream can help \n \n
+
         I run away for something more \n
         I run away, please close the door \n
-        I don\'t need air when something takes my breath away \n
+        I don\'t need air when something takes my breath away \n \n
+
         I\'m still the kid I used to be, \n
         Dreaming is right up my street \n
-        I don\'t need air when something takes my breath away \n
-        I don\'t need air when something takes my breath away \n
+        I don\'t need air when something takes my breath away \n\n
+
+        I don\'t need air when something takes my breath away \n \n
+
         I don\’t need air when something takes my breath away \n \n
+
         I gotta focus on the things really worth it \n
         And now all pain is gone, I gotta count on myself \n
         First day I couldn\'t believe it \n
         Next week I had to admit it \n
         Last couple days we\'ve spent together \n
         But nothing is forever \n \n
+
         I run away for something more \n
         I run away, please close the door \n
-        I don\'t need air when something takes my breath away \n
+        I don\'t need air when something takes my breath away \n \n
+
         I\'m still the kid I used to be, \n
         Dreaming is right up my street \n
-        I don\'t need air when something takes my breath away \n
-        I don\'t need air when something takes my breath away \n
+        I don\'t need air when something takes my breath away \n\n
+
+        I don\'t need air when something takes my breath away \n \n
+
         I don\’t need air when something takes my breath away \n \n
+
         Смотри мечтам в глаза, им есть что сказать \n
         Им есть что сказать \n
         Смотри мечтам в глаза, им есть что сказать \n
         Смотри мечтам в глаза, им есть что сказать \n
         Смотри мечтам в глаза, им есть что сказать \n
         Смотри мечтам в глаза \n \n
+
         I run away for something more \n
         I run away, please close the door \n
-        I don\'t need air when something takes my breath away \n
+        I don\'t need air when something takes my breath away \n \n
+
         I\'m still the kid I used to be, \n
         Dreaming is right up my street \n
-        I don\'t need air when something takes my breath away \n
+        I don\'t need air when something takes my breath away \n\n
+
         I don\'t need air when something takes my breath away</p>
     </string>
     <string name="Wildways_Lost">
@@ -52,8 +66,10 @@
         You can\'t answer what you try to find, it\'s tragedy \n
         Where have you been when I needed to breathe? \n
         So where have you been when I needed to breathe? \n \n
+
         I lost my faith somewhere inside, inside \n
         I lose myself somewhere in faith, in faith \n \n
+
         I came all this way for you \n
         But I still don\'t know how you look \n
         And I still don\'t know what I choose \n
@@ -62,80 +78,444 @@
         They\'re all gone, they\'re all gone \n
         There is no Hell, there is no Heaven \n
         There is no life on the other side \n \n
+
         There is no Hell, there is no Heaven \n
         There\'s no life on the other side \n \n
+
         I lost my faith somewhere inside, inside \n
         I lose myself somewhere in faith, in faith, in faith \n \n
+
         I lost my faith somewhere inside, inside \n
         I lose myself somewhere in faith, in faith</p>
     </string>
     <string name="Architects_Animals">
         <p>I do my best, but everything seems ominous\n
-Not feeling blessed, quite the opposite\n
-This shouldn\'t feel so monotonous\n
-It never rains, but it pours\n\n
+        Not feeling blessed, quite the opposite\n
+        This shouldn\'t feel so monotonous\n
+        It never rains, but it pours\n\n
 
-We\'re just a bunch of fucking animals\n
-But we\'re afraid of the outcome\n
-Don\'t cry to me because the fiction that we\'re living in\n
-Says I should pull the pin\n\n
+        We\'re just a bunch of fucking animals\n
+        But we\'re afraid of the outcome\n
+        Don\'t cry to me because the fiction that we\'re living in\n
+        Says I should pull the pin\n\n
 
-Should I just pull the pin?\n
-Should I just pull the pin?\n\n
+        Should I just pull the pin?\n\n
+        Should I just pull the pin?\n\n
 
-I dug my heels, I thought that I could stop the rot\n
-The ground gave way, now I\'ve lost the plot\n
-Fucked it again, that was all I\'ve got\n
-It never rains, but it pours\n\n
+        I dug my heels, I thought that I could stop the rot\n
+        The ground gave way, now I\'ve lost the plot\n
+        Fucked it again, that was all I\'ve got\n
+        It never rains, but it pours\n\n
 
-Life is just a dream within a\n\n
+        Life is just a dream within a\n\n
 
-We\'rе just a bunch of fucking animals\n
-But we\'re afraid of the outcomе\n
-Don\'t cry to me because the fiction that we\'re living in\n
-Says I should pull the pin\n\n
+        We\'rе just a bunch of fucking animals\n
+        But we\'re afraid of the outcomе\n
+        Don\'t cry to me because the fiction that we\'re living in\n
+        Says I should pull the pin\n\n
 
-Buried under dirt, a diamond in the mud\n
-Infinity is waiting there \'cause nobody can burn a glass cathedral\n\n
+        Buried under dirt, a diamond in the mud\n
+        Infinity is waiting there \'cause nobody can burn a glass cathedral\n\n
 
-Dream within a, dream within a\n\n
+        Dream within a, dream within a\n\n
 
-We\'re just a bunch of fucking animals\n
-But we\'re afraid of the outcome\n
-Don\'t cry to me because the fiction that we\'re living in\n
-Says I should pull the pin\n
-We\'re just a bunch of fucking animals\n
-But we\'re afraid of the outcome\n
-Don\'t cry to me because the fiction that we\'re living in\n
-Says I should pull the pin\n\n
+        We\'re just a bunch of fucking animals\n
+        But we\'re afraid of the outcome\n
+        Don\'t cry to me because the fiction that we\'re living in\n
+        Says I should pull the pin\n \n
+        We\'re just a bunch of fucking animals\n
+        But we\'re afraid of the outcome\n
+        Don\'t cry to me because the fiction that we\'re living in\n
+        Says I should pull the pin\n\n
 
-Should I just pull the pin?\n
-Should I just pull the pin?\n
-(Buried under dirt, a diamond in the mud)\n
-Should I just pull the pin?\n
-(Infinity is waiting there \'cause nobody can burn a glass cathedral)\n
-Should I just pull the pin?</p>
+        Should I just pull the pin?\n
+        Should I just pull the pin?\n
+        (Buried under dirt, a diamond in the mud)\n
+        Should I just pull the pin?\n
+        (Infinity is waiting there \'cause nobody can burn a glass cathedral)\n
+        Should I just pull the pin?</p>
     </string>
     <string name="Architects_Giving_Blood">
-        <p></p>
+        <p>The gospel, distorted \n
+        It leaves my blood running cold \n
+        But still they say \n
+        I\'m rigging the ritual \n \n
+
+        I never said that I was giving blood for the unbelievers \n
+        Bleeding out like a devil in disguise \n
+        They shot a hole in the parachute \n
+        \'Cause I\'d rather feel alive \n \n
+
+        It\'s so convoluted \n
+        They\'re just trepanning for gold \n
+        May they rest in peace \n
+        \'Cause they\'re fucking dead to me \n \n
+
+        Well, there\'s your eulogy \n
+        The water\'s polluted \n
+        My feathers caught in the spill \n
+        Nobody said that it would be safe up here \n \n
+
+        I never said that I was giving blood for the unbelievers \n
+        Bleeding out like a devil in disguise \n
+        They shot a hole in the parachute \n
+        \'Cause I\'d rather feel alive \n \n
+
+        Your salvation\'s a letdown, ooh \n
+        Oh, I\'m sorry that I\'d rather feel, I\'d rather feel alive \n \n
+
+        It leaves a mark on the mind, it weaves a web in the background silently \n
+        No time to spare, no sign of the exit wound, God help me \n
+        There\'s no drying off once you\'re soaked right down to the bone, hopefully \n
+        Somebody thinks of me in the aftermath, woe is me \n
+        It leaves a mark on the mind, it weaves a web in the background silently \n
+        No time to spare, no sign of the exit wound, God help me \n
+        There\'s no drying off once you\'re soaked right down to the bone, hopefully \n
+        Somebody thinks of me in the aftermath, woe is me \n
+        Woe is me \n \n
+
+        I\'m so sorry, I\'m so sorry \n \n
+
+        I never said that I was giving blood for the unbelievers \n
+        Bleeding out like a devil in disguise \n
+        They shot a hole in the parachute \n
+        \'Cause I\'d rather feel alive \n
+        Your salvation\'s a letdown, ooh \n
+        Oh, I\'m sorry that I\'d rather feel, I\'d rather feel alive</p>
     </string>
     <string name="Architects_Black_Lungs">
-        <p></p>
+        <p>Do you cross your heart when you hope to die? \n
+        Are you sleeping deep in the hurricane? \n
+        IVs in the arm, forgetting to feel, we\'re crawling on all fours \n
+        Will you fall on that sword at the second coming? \n
+        You\'re gonna taste the ash and dust \n
+        \'Cause this world is dying in our arms \n \n
+
+        Now the wheels are turning \n
+        What would you do to stay alive if the planet was burning? \n \n
+
+        You wanna make your Hell a reality? \n
+        Black lungs for the young if they dare to breathe \n
+        (If they dare to breathe, whoa-oh) \n
+        Sure sounds like Heaven to me \n
+        You\'ve gotta cut the roots to kill the weeds \n
+        No place to go if we don\'t believe \n
+        (If we don\'t believe, whoa-oh) \n
+        Good Lord, it\'s enough to plague a saint \n
+
+        Give us a Judas steer we can deify \n
+        Yeah, we all pretend we\'re the renegades \n
+        So wash us away, garroted by a halo, take a bow \'cause time\'s running out \n
+        There\'s no doubt that the end is coming \n
+        You\'re gonna taste the ash, you\'re gonna taste the dust \n
+        \'Cause this world is dying in our arms \n \n
+
+        Now the wheels are turning \n
+        What would you do to stay alive if the planet was burning? \n
+
+        You wanna make your Hell a reality? \n
+        Black lungs for the young if they dare to breathe \n
+        (If they dare to breathe, whoa-oh) \n
+        Sure sounds like Heaven to me \n
+        You\'ve gotta cut the roots to kill the weeds \n
+        No place to go if we don\'t believe \n
+        (If we don\'t believe, whoa-oh) \n
+        Good Lord, it\'s enough to plague a saint \n
+
+        Good Lord, it\'s enough to plague a saint \n \n
+
+        Post-love, post-truth \n
+        Justice lays bound and black-bagged, ready for the guillotine \n
+        We can all plead guilty when they ask \n
+        "Where were you when the gods clipped the wings off the phoenix?" \n
+        They clipped the wings off the phoenix, oh \n
+        When will we wrestle the world from the fools and their gold and the fucking covenant? (We\'ll be waiting) \n
+        Will enough be enough when we\'re holding on for dear life? \n \n
+
+        You wanna make your Hell a reality? \n
+        Black lungs for the young if they dare to breathe \n
+        (If they dare to breathe, whoa-oh) \n
+        Sure sounds like Heaven to me \n
+        You\'ve gotta cut the roots to kill the weeds \n
+        No place to go if we don\'t believe \n
+        (If we don\'t believe, whoa-oh) \n
+        Good lord, it\'s enough to plague a saint \n \n
+
+        It\'s enough to plague a saint \n
+        It\'s enough to plague a saint \n
+        It\'s enough to plague a saint \n \n
+
+        Oh \n
+        Ugh, we can all plead guilty when they ask \n
+        "Where were you when the gods clipped the wings off the phoenix?"</p>
     </string>
     <string name="ТАйМСКВЕР_Время_первых">
-        <p></p>
+        <p>Все боль, все тлен \n
+        Объятия этих стен \n
+        Такие же как были \n
+        Мы не ждем перемен \n
+        И сам каждый по себе \n
+        В рутине своей пыли \n \n
+
+        И проще всё принять \n
+        Не начинать с ноля \n
+        Остаток веры пеплом выбросив за борт \n
+        И впредь уже не ждать \n
+        От засухи дождя \n
+        Пускай река по жизни унесет \n\n
+
+        Но от чего так холодно внутри \n
+        Я больше не могу себя винить \n
+        Что не сорвался в небо выше облаков \n
+        И я всё так же жду, сжигая дни \n
+        Пытаясь вырвать правду изнутри \n
+        О том что время первых не вернется вновь \n\n
+
+        Я мог бы стать \n
+        Тем кем увы не стал \n
+        И поздно бить посуду \n
+        Я мог бы взять \n
+        От жизни все сполна \n
+        Победителей не судят \n\n
+
+        Но мне не достучаться до небес \n
+        Ведь притяжение этих мест \n
+        Оставит меня ползать по земле \n
+        И ветер перемен утих давно и насовсем \n
+        Я навсегда застряну здесь \n\n
+
+        Но от чего так холодно внутри \n
+        Я больше не могу себя винить \n
+        Что не сорвался в небо выше облаков \n
+        И я всё так же жду, сжигая дни \n
+        Пытаясь вырвать правду изнутри \n
+        О том что время первых не вернется вновь \n
+        Не вернется вновь \n\n
+
+        Имел ли смысл дар \n
+        Что я не отыскал \n
+        Но с тех кому дано \n
+        В итоге спрос двойной \n \n
+
+        И каждый раз поднявшись над собой \n
+        Я обесцениваю всех и всё \n
+        И если даже поднимусь со дна\n
+        Со мной все та же пустота\n\n
+
+        Но от чего так холодно внутри\n
+        Я больше не могу себя винить\n
+        Что не сорвался в небо выше облаков\n
+        И я всё так же жду, сжигая дни\n
+        Пытаясь вырвать правду изнутри\n
+        О том что время первых не вернется вновь \n
+        Не вернется вновь</p>
     </string>
     <string name="Bad_Omens_Like_A_Villain">
-        <p></p>
+        <p>Look into my face, then look again\n
+        We are not the same, we\'re different\n
+        To tell your tales and fables, you couldn\'t wait\n
+        You need a new clean slate without the dents\n
+        A place to put your pain, your consequence\n
+        When you look into the mirror, are you even there?\n\n
+
+        I don\'t wanna know all your secrets \'cause I\'ll tell\n
+        It\'s hard enough being alone with myself\n
+        I don\'t know how long I\'ll be holding on\n
+        I know you tried your hardest, I know that you meant well\n
+        But you pushed me to the edge and I slipped and then I fell\n
+        I don\'t know how long I\'ll be holding on\n\n
+
+        So write a brand new page then write again\n
+        I know your act is staged, yet you pretend\n
+        All while you\'re turning tables with missing legs\n
+        I think you\'ve overstayed your welcome in\n
+        So go the fuck away, don\'t come again\n
+        I\'ll see your face in the fire and burn it out\n\n
+
+        I don\'t wanna know all your secrets \'cause I\'ll tell\n
+        It\'s hard enough being alone with myself\n
+        I don\'t know how long I\'ll be holding on\n
+        I know you tried your hardest, I know that you meant well\n
+        But you pushed me to the edge and I slipped and then I fell\n
+        I don\'t know how long I\'ll be holding on\n\n
+
+        Like a villain, I couldn\'t be\n
+        I didn\'t need it, it needed me\n
+        Like a villain, I couldn\'t be\n
+        I didn\'t need it, it needed me\n\n
+
+        I didn\'t need it, it needed me\n\n
+
+        I don\'t wanna know all your secrets \'cause I\'ll tell\n
+        It\'s hard enough being alone with myself\n
+        I don\'t know how long I\'ll be holding on\n
+        I know you tried your hardest, I know that you meant well\n
+        But you pushed me to the edge and I slipped and then I fell\n
+        I don\'t know how long I\'ll be holding on\n\n
+
+        I didn\'t need it, it needed me</p>
     </string>
     <string name="Bad_Omens_THE_DEATH_OF_PEACE_OF_MIND">
-        <p></p>
+        <p>I made another mistake, thought I could change\n
+        Thought I could make it out\n
+        Promises break, need to hear you say\n
+        "You\'re gonna keep it now"\n\n
+
+        I miss the way you say my name\n
+        The way you bend, the way you break\n
+        Your makeup running down your face\n
+        The way you touch, the way you taste\n\n
+
+        When the curtains call the time,\n
+        will we both go home alive?\n
+        It wasn\'t hard to realize\n
+        Love\'s the death of peace of mind\n\n
+
+        You\'re in the walls that I made, with crosses and frames\n
+        Hanging upside down\n
+        For granted, in vain, I took everything\n
+        I ever cared about\n\n
+
+        I miss the way you say my name\n
+        The way you bend, the way you break\n
+        Your makeup running down your face\n
+        The way you fuck, the way you taste\n\n
+
+        When the curtains call the time,\n
+        will we both go home alive?\n
+        It wasn\'t hard to realize\n
+        Love\'s the death of peace of mind\n
+        When the curtains call the time,\n
+        Will we both be satisfied?\n
+        It wasn\'t hard to realize\n
+        Love\'s the death of peace of mind\n\n
+
+        Love\'s the death of peace of mind\n\n
+
+        You come and go in waves\n
+        Leaving me in your wake\n
+        You come and go in waves\n
+        Swallowing everything\n\n
+
+        Are you satisfied?\n
+        Love\'s the death of peace of mind\n
+        Mind\n
+        Mind\n\n
+
+        When the curtains call the time,\n
+        will we both go home alive?\n
+        It wasn\'t hard to realize\n
+        Love\'s the death of peace of mind\n
+        When the curtains call the time,\n
+        Will we both be satisfied?\n
+        It wasn\'t hard to realize\n
+        Love\'s the death of peace of mind\n\n
+
+        Love\'s the death of peace of mind</p>
     </string>
     <string name="Bring_Me_The_Horizon_Th_House_of_Wolves">
-        <p></p>
+        <p>Show me a sign, show me a reason to give\n
+        A solitary fuck about your goddamn beliefs\n
+        I\'m going blind, but one thing\'s clear\n
+        Death is the only salvation you\'ll feel\n\n
+
+        Brick by brick by brick\n
+        Brick by brick by brick\n\n
+
+        What you call faith, I call a sorry excuse\n
+        Cloak and daggers murder the truth\n
+        The bitter taste, there\'s nothing else\n
+        I\'ll bow for your king when he shows himself\n\n
+
+        Brick by brick by brick\n
+        These walls begin to cave in\n
+        The house of wolves you built\n
+        Whispers in a thousand tongues\n\n
+
+        Show me your face, show me a reason to think\n
+        My soul can be saved if I sell you my sins\n
+        I\'m going blind, but one thing\'s clear\n
+        Death is the only salvation for me\n\n
+
+        Brick by brick by brick\n
+        These walls begin to cave in\n
+        The house of wolves you built\n
+        Whispers in a thousand tongues\n\n
+
+        The house of wolves you built\n
+        The house of wolves you built\n
+        The house of wolves you built\n
+        Will burn just like a thousand suns\n\n
+
+        Yeah\n
+        And when you die, the only kingdom you\'ll see\n
+        Is two foot wide and six foot deep, yeah\n
+        And when you die, the only kingdom you\'ll see\n
+        Is two foot wide and six foot deep\n
+        And when you die, the only kingdom you\'ll see\n
+        Is two foot wide and six foot deep, oh\n\n
+
+        Brick by brick by brick\n
+        Brick by brick by brick\n\n
+
+        Brick by brick by brick\n
+        These walls begin to cave in\n
+        The house of wolves you built\n
+        Whispers in a thousand tongues\n
+        Brick by brick by brick\n
+        These walls begin to cave in\n
+        The house of wolves you built\n
+        Will burn just like a thousand suns\n\n
+
+        You said you want me\n
+        Now I\'m here, now I\'m here, now I\'m here\n
+        You said you want me\n
+        Now I\'m here, now I\'m here, now I\'m here</p>
     </string>
     <string name="Bring_Me_The_Horizon_Shadow_Moses">
-        <p></p>
+        <p>Can you tell from the look in our eyes? (We\'re going nowhere)\n
+        We live our lives like we\'re ready to die (We\'re going nowhere)\n
+        Can you tell from the look in our eyes? (We\'re going nowhere)\n
+        We live our lives like we\'re ready to die (We\'re going nowhere)\n\n
+
+        I thought I\'d buried you and covered the tracks\n
+        You\'ll have to take this with your cold dead hands\n
+        I thought I\'d buried you, what\'s sin can never die\n
+        I thought I\'d cut you loose, severed the feeling\n
+        I slipped through the cracks and you caved in my ceiling\n
+        I thought I\'d buried you, what\'s sin can never die,\n\n
+
+        Fuck\n\n
+
+        Can you tell from the look in our eyes? (We\'re going nowhere)\n
+        We live our lives like we\'re ready to die (We\'re going nowhere)\n
+        You can run, but you\'ll never escape (Over and over again)\n
+        Will we ever see the end? (We\'re going nowhere)\n
+
+        This is sempiternal\n
+        Will we ever see the end?\n
+        This is sempiternal\n
+        Over and over, again and again\n\n
+
+        Rise from the dead, you say\n
+        Secrets don\'t sleep till they\'re took to the grave\n
+        Signal the sirens rally the troops\n
+        Ladies and gentlemen, it\'s the moment of truth\n\n
+
+        Can you tell from the look in our eyes? (We\'re going nowhere)\n
+        We live our lives like we\'re ready to die (We\'re going nowhere)\n
+        You can run, but you\'ll never escape (Over and over again)\n
+        Will we ever see the end? (We\'re going nowhere)\n\n
+
+        Can you tell from the look in our eyes? (We\'re going nowhere)\n
+        We live our lives like we\'re ready to die (We\'re going nowhere)\n
+        You can run, but you\'ll never escape (Over and over again)\n
+        Will we ever see the end? (We\'re going nowhere)\n\n
+
+        This is sempiternal\n
+        Will we ever see the end?\n
+        This is sempiternal\n
+        Over and over, again and again</p>
     </string>
 
 </resources>
