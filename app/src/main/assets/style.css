@@ -1,0 +1,16 @@
+.void{
+    margin:20px;
+}
+.frame {
+    border: 2px solid #E81E25;
+}
+.space {
+     margin-left: 200px;
+     margin-right: 200px;
+}
+.void-left{
+    padding: 20px;
+}
+.h{
+    font-size:32px;
+}
