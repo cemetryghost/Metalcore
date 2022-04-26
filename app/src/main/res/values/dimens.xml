@@ -2,4 +2,6 @@
 <resources>
     <dimen name="listViewWidth">0dp</dimen>
     <dimen name="listViewHeight">0dp</dimen>
+    <dimen name="textListPadding">25dp</dimen>
+    <dimen name="textListSize">18sp</dimen>
 </resources>
