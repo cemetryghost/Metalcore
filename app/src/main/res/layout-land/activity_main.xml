@@ -7,9 +7,10 @@
     tools:context=".MainActivity">
 
     <ListView
-        android:id="@+id/artistTrackList"
-        android:layout_width="@dimen/listViewWidth"
-        android:layout_height="@dimen/listViewHeight"
+        android:id="@+id/list"
+        android:layout_width="0dp"
+        android:layout_height="0dp"
+        android:background="@drawable/back"
         android:scrollbars="horizontal"
         app:layout_constraintBottom_toBottomOf="parent"
         app:layout_constraintLeft_toLeftOf="parent"

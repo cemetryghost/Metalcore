@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="artistTrack">
+        <item>Wildways — Breathless</item>
+        <item>Wildways — Lost</item>
+        <item>Architects — Giving Blood</item>
+        <item>Architects — Animals</item>
+        <item>Architects — Black Lungs</item>
+        <item>ТАйМСКВЕР — Время первых</item>
+        <item>Bad Omens — Like A Villain</item>
+        <item>Bad Omens — THE DEATH OF PEACE OF MIND</item>
+        <item>Bring Me The Horizon — The House of Wolves</item>
+        <item>Bring Me The Horizon — Shadow Moses</item>
+    </string-array>
+</resources>
