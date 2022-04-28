@@ -9,7 +9,6 @@ import android.text.method.ScrollingMovementMethod;
 
 public class SecondActivity extends AppCompatActivity {
 
-
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
